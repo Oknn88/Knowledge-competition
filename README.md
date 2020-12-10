@@ -1,2 +1,2 @@
 # Knowledge-competition
-This is my school project. I made this project in Turkish.
+This project asks 4 questions.
